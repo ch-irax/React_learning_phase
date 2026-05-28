@@ -1,108 +1,87 @@
-# Chirag Sharma
-
-### Full-Stack Developer & Creative Technologist ✨
-
-> Building **immersive digital experiences**, **futuristic interfaces**, and **elegant solutions** at the intersection of art and code.
-
----
-
-## 🎯 Hero Stats
-
-![GitHub followers](https://img.shields.io/github/followers/ch-irax?style=flat-square&logo=github&color=black)
-![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=flat-square)
-![Based in](https://img.shields.io/badge/📍-Bengaluru,%20India-FF6B6B?style=flat-square)
-
----
-
-## 👋 About Me
-
-I'm **Chirag Sharma**, a full-stack developer and creative technologist based in Bengaluru, India, obsessed with crafting next-generation web experiences that captivate and inspire. With deep expertise spanning **3D web development**, **cybersecurity**, **UI/UX architecture**, and **immersive technologies**, I transform complex ideas into elegant, performant, and beautifully human-centered digital solutions.
-
-My philosophy? **Code is art. Design is science.** Every pixel, every interaction, every data flow gets obsessive attention to detail. I specialize in building premium-feeling experiences that respond intuitively, perform flawlessly, and scale intelligently across devices and architectures.
-
-When I'm not architecting full-stack systems or pushing the boundaries of what's possible with WebGL and Three.js, I'm exploring bleeding-edge technologies—**AI-driven interfaces**, **blockchain integration**, **real-time data visualization**, and **immersive XR experiences**. I believe the future of web is not just interactive; it's **intelligent, adaptive, and genuinely delightful**.
-
----
-
-## 🛠 Skills & Technologies
-
-| **Frontend** | **Backend** | **Creative Tech** | **Tools & DevOps** |
-|---|---|---|---|
-| React.js • Next.js | Node.js • Express | 3D Web (Three.js) | Vite • Webpack |
-| Vue.js • TypeScript | Python • FastAPI | WebGL • GLSL | Git • GitHub |
-| TailwindCSS • GSAP | MongoDB • PostgreSQL | Motion Design | Docker |
-| Responsive Design | Firebase • REST | Cybersecurity | Figma • Blender |
-
----
-
-## ✨ Featured Projects
-
-### 🔐 **SecurePass**
-*Zero-knowledge password manager engineered for military-grade security*
-
-Architected an end-to-end encrypted vault system where **users maintain absolute control** of their sensitive data. Features biometric authentication, zero-knowledge proofs, and real-time sync across devices—because your security should never be compromised.
-
-- ✅ Military-grade AES-256 encryption
-- ✅ Biometric + passkey authentication
-- ✅ Zero-knowledge architecture
-- **Tech Stack:** Node.js • MongoDB • React • TweetNaCl.js  
-- 🔗 [Explore Project](#) | 📊 [Live Demo](#)
-
----
-
-### 🎮 **ZPlus**
-*Futuristic 3D portfolio platform with immersive, interactive design*
-
-A next-gen portfolio experience that merges **cutting-edge 3D visualization** with intuitive user interactions. Real-time WebGL rendering, advanced particle systems, and smooth animations create an unforgettable impression—perfect for creatives and technologists.
-
-- ✅ Real-time WebGL rendering
-- ✅ Advanced particle + physics systems
-- ✅ Smooth, performant animations
-- **Tech Stack:** Three.js • React • WebGL • GLSL  
-- 🔗 [Explore Project](#) | 🌐 [Live Demo](#)
-
----
-
-## 🚀 Works With & Collaborations
-
-**Open to:** Freelance projects • Full-time opportunities • Startup partnerships • Creative collaborations • Tech mentorship
-
-**Industries:** Fintech • Web3 • Creative Tech • SaaS • Enterprise Solutions
-
----
-
-## 📈 GitHub & Community
-
-Consistent contributions to open-source initiatives and personal projects with a focus on **code quality**, **documentation**, and **collaborative development**. Passionate about sharing knowledge and building better tools for the web community.
-
----
-
-## 🎵 Currently Exploring
-
-**AI-driven UI generation** • **Next-gen web architecture** • **Real-time collaborative tools** • **Immersive XR experiences**
-
----
-
-## 💌 Let's Connect
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0B0F14,111827,334155&height=290&section=header&text=CH-IRAX&fontSize=72&fontColor=FFFFFF&fontAlignY=50" alt="Header" width="100%"/>
+</div>
+<div align="center">
+  <h1>Chirag Sharma</h1>
+  <h3>Full-Stack Developer & Creative Technologist</h3>
+  <p>Building immersive digital experiences with code, motion & aesthetics</p>
+</div>
+<br />
+<div align="center">
+  <a href="https://twitter.com/ChiragShar20918"><img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/chirag-pankaj-sharma-77a245303"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bengaluru%2C%20India-334155?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</div>
+<br />
 
-**Ready to collaborate or chat about tech?**
+---
+### 🌌 About Me
+Passionate developer based in Bengaluru, specializing in **cybersecurity**, **3D web experiences**, and creating elegant, futuristic interfaces.
 
-📧 **Email:** [chirag@example.com](mailto:chirag@example.com)  
-🐙 **GitHub:** [@ch-irax](https://github.com/ch-irax)  
-💼 **LinkedIn:** [Connect](#)  
-🌐 **Portfolio:** [visit.ch-irax.com](#)  
-🐦 **Twitter:** [@ch_irax](#)
-
+### 🛠️ Skills & Technologies
+<div align="center">
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-334155?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-334155?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-111827?style=for-the-badge&logo=three.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-334155?style=for-the-badge&logo=figma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white)
 </div>
 
 ---
 
+### 📈 GitHub Progress
 <div align="center">
-
-**© 2026 Chirag Sharma** • Built with ❤️ in Bengaluru, Karnataka, India
-
-*Crafting immersive digital futures, one commit at a time.*
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ch-irax&theme=github-dark-blue&hide_border=true&border_radius=16&ring=334155&fire=64748B&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=64748B" height="200" alt="Streak" />
 </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ch-irax&theme=github-compact&hide_border=true&area=true&area_color=334155&color=E5E7EB&line=64748B&point=94A3B8&bg_color=0B0F14"
+       alt="Contribution Graph"
+       width="95%"
+       style="border-radius: 16px; box-shadow: 0 20px 40px rgba(0,0,0,0.6);" />
+</div>
+
+---
+
+### ✨ Featured Projects
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <!-- SecurePass -->
+        <a href="https://github.com/ch-irax/SecurePass">
+          <img src="https://images.waptrick.com/2024/04/404-page-not-found-image.jpg" 
+               alt="SecurePass"
+               width="460"
+               style="max-width: 460px; width: 100%; border-radius: 20px; box-shadow: 0 25px 60px rgba(0,0,0,0.75);" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <!-- ZPlus -->
+        <a href="https://github.com/ch-irax/zplus">
+          <img src="https://images.waptrick.com/2024/04/404-page-not-found-image.jpg" 
+               alt="ZPlus"
+               width="460"
+               style="max-width: 460px; width: 100%; border-radius: 20px; box-shadow: 0 25px 60px rgba(0,0,0,0.75);" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+**SecurePass** — Zero-knowledge password manager engineered for military-grade security. End-to-end encrypted vault with biometric + passkey authentication, real-time device sync, and absolute user data control. Built with zero-knowledge architecture.
+
+**[→ Explore SecurePass →](https://github.com/ch-irax/SecurePass)**
+
+**ZPlus** — Futuristic 3D portfolio platform with immersive, interactive design. Real-time WebGL rendering, advanced particle systems, physics simulations, and smooth GSAP animations create an unforgettable, premium-feeling experience for creatives and technologists.
+
+**[→ Explore ZPlus →](https://github.com/ch-irax/zplus)**
+
+---
+
