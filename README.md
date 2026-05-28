@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Modern Green + Black Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0A0A0A,166534,0A0A0A&height=230&section=header&text=Chirag%20Sharma&fontSize=52&fontColor=FFFFFF&fontAlignY=48" alt="Header" width="100%"/>
+  <!-- Improved Green + Black Gradient Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0A,50:14532D,100:0A0A0A&height=230&section=header&text=Chirag%20Sharma&fontSize=54&fontColor=FFFFFF&fontAlignY=48" alt="Header" width="100%"/>
 </div>
 
 <br>
