@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Modern Aesthetic Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1F2937,111827,1F2937&height=220&section=header&text=Chirag%20Sharma&fontSize=52&fontColor=FFFFFF&fontAlignY=48" alt="Header" width="100%"/>
+  <!-- Modern Green + Black Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0A0A0A,166534,0A0A0A&height=230&section=header&text=Chirag%20Sharma&fontSize=52&fontColor=FFFFFF&fontAlignY=48" alt="Header" width="100%"/>
 </div>
 
 <br>
@@ -68,10 +68,10 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ch-irax&theme=dark&no-frame=true&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Trophies" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ch-irax&theme=dark&no-frame=true&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Achievements" width="95%"/>
 </div>
 
 ### 📊 GitHub Stats
