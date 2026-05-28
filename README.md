@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0B0F14,111827,334155&height=290&section=header&text=CH-IRAX&fontSize=72&fontColor=FFFFFF&fontAlignY=50" alt="Header" width="100%"/>
+  <img src="chirag.png" alt="CHIRAG" width="100%" style="max-width: 800px; margin-bottom: 20px;"/>
 </div>
+
 <div align="center">
-  <h1>Chirag Sharma</h1>
   <h3>Full-Stack Developer & Creative Technologist</h3>
   <p>Building immersive digital experiences with code, motion & aesthetics</p>
 </div>
@@ -22,16 +22,14 @@ Passionate developer based in Bengaluru, specializing in **cybersecurity**, **3D
 
 ### 🛠️ Skills & Technologies
 <div align="center">
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-334155?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-334155?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-111827?style=for-the-badge&logo=three.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-334155?style=for-the-badge&logo=figma&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=white)
+  <img src=".radme-icon-html-92.png" alt="HTML5" height="92" />
+  <img src=".radme-icon-js-92.png" alt="JavaScript" height="92" />
+  <img src=".radme-icon-react-92.png" alt="React" height="92" />
+  <img src=".radme-icon-ts-92.png" alt="TypeScript" height="92" />
+  <img src=".radme-icon-threejs-92.png" alt="Three.js" height="92" />
+  <img src=".radme-icon-tailwind-92.png" alt="Tailwind CSS" height="92" />
+  <img src=".radme-icon-nodejs-92.png" alt="Node.js" height="92" />
+  <img src=".radme-icon-vercel-92.png" alt="Vercel" height="92" />
 </div>
 
 ---
@@ -56,7 +54,7 @@ Passionate developer based in Bengaluru, specializing in **cybersecurity**, **3D
       <td align="center" valign="top">
         <!-- SecurePass -->
         <a href="https://github.com/ch-irax/SecurePass">
-          <img src="https://images.waptrick.com/2024/04/404-page-not-found-image.jpg" 
+          <img src="content.png" 
                alt="SecurePass"
                width="460"
                style="max-width: 460px; width: 100%; border-radius: 20px; box-shadow: 0 25px 60px rgba(0,0,0,0.75);" />
@@ -65,7 +63,7 @@ Passionate developer based in Bengaluru, specializing in **cybersecurity**, **3D
       <td align="center" valign="top">
         <!-- ZPlus -->
         <a href="https://github.com/ch-irax/zplus">
-          <img src="https://images.waptrick.com/2024/04/404-page-not-found-image.jpg" 
+          <img src="zplus.png" 
                alt="ZPlus"
                width="460"
                style="max-width: 460px; width: 100%; border-radius: 20px; box-shadow: 0 25px 60px rgba(0,0,0,0.75);" />
