@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api.svg?type=wave&color=0F0F0F&height=200&section=header&text=Chirag%20Sharma&fontSize=55&fontColor=FFFFFF&animation=blink&fontAlignY=45" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/v3/api.svg?type=wave&color=0A0A0A&height=210&section=header&text=Chirag%20Sharma&fontSize=58&fontColor=FFFFFF&animation=blink&fontAlignY=45" alt="Header" width="100%"/>
 </div>
 
 <br>
@@ -7,7 +7,7 @@
 <div align="center">
   <h2>👋 Hi, I'm <strong>ch-irax</strong></h2>
   <h3>Full-Stack Developer & Creative Technologist</h3>
-  <p>Building immersive digital experiences with clean code and elegant design.</p>
+  <p>Crafting elegant, immersive digital experiences with modern technologies.</p>
 </div>
 
 <br>
@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/chirag-pankaj-sharma-77a245303">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/badge/Bengaluru-000000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Bengaluru-111827?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </div>
 
 ---
@@ -31,13 +31,13 @@
     <img src="https://github.com/ch-irax/SecurePass/blob/main/preview.gif" 
          alt="SecurePass" 
          width="88%" 
-         style="border-radius: 16px; box-shadow: 0 20px 40px rgba(15, 23, 42, 0.6);"/>
+         style="border-radius: 18px; box-shadow: 0 25px 50px rgba(0, 0, 0, 0.7);"/>
   </a>
 </div>
 
 <br>
 
-**SecurePass** — Next-generation password vault with immersive 3D interface.
+**SecurePass** — Immersive 3D password vault with stunning visual experience.
 
 **[→ Explore SecurePass →](https://github.com/ch-irax/SecurePass)**
 
@@ -62,10 +62,9 @@
 
 ### 🌌 About Me
 
-- Passionate about **cybersecurity**, **immersive web experiences**, and **modern UI/UX**
-- Love creating beautiful, interactive interfaces with attention to detail
+- Passionate about **cybersecurity**, **3D web experiences**, and **pixel-perfect design**
 - Based in **Bengaluru, India**
-- Open to interesting collaborations
+- Always exploring new technologies and creative coding
 
 ---
 
@@ -79,11 +78,14 @@
 ### 🔥 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ch-irax&theme=tokyonight&hide_border=true&area=true&area_color=60A5FA" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ch-irax&theme=dracula&hide_border=true&area=true&area_color=22C55E&color=22C55E&line=22C55E&point=22C55E&bg_color=0A0A0A" 
+       alt="Contribution Graph" 
+       width="95%" 
+       style="border-radius: 12px; box-shadow: 0 10px 30px rgba(34, 197, 94, 0.15);"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api.svg?type=wave&color=0F0F0F&height=90&section=footer&text=Let's%20Create%20Something%20Beautiful&fontSize=20&fontColor=FFFFFF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/v3/api.svg?type=wave&color=0A0A0A&height=95&section=footer&text=Let's%20Build%20Something%20Elegant%20Together&fontSize=19&fontColor=FFFFFF" width="100%"/>
 </div>
