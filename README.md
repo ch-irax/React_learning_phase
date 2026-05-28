@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Glassy Grey Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1F2937,334155,1F2937&height=235&section=header&text=Chirag%20Sharma&fontSize=54&fontColor=FFFFFF&fontAlignY=47" alt="Header" width="100%"/>
+  <!-- Transparent Glassy Grey Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1F293760,33415580,1F293760&height=235&section=header&text=Chirag%20Sharma&fontSize=54&fontColor=FFFFFF&fontAlignY=47" alt="Header" width="100%"/>
 </div>
 
 <br>
@@ -67,6 +67,12 @@
 - Based in **Bengaluru, India**
 
 ---
+
+### 📈 GitHub Progress
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ch-irax&theme=tokyonight&hide_border=true&border_radius=12&ring_color=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" height="195" alt="GitHub Streak"/>
+</div>
 
 ### 🔥 Contribution Activity
 
