@@ -1,78 +1,94 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api.svg?type=wave&color=0A66C2&height=220&section=header&text=Chirag%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45" alt="Header" />
+  <img src="https://capsule-render.vercel.app/v3/api.svg?type=shark&color=1A1A1A&height=220&section=header&text=CH-IRAX&fontSize=70&fontColor=FFD700&animation=blink&fontAlignY=45" alt="Batman Header" width="100%"/>
+</div>
+
+<div align="center">
+  <h1>🦇 I AM CH-IRAX</h1>
+  <h3><strong>The Digital Vigilante</strong></h3>
+  <p><em>Protecting the web. One secure line of code at a time.</em></p>
 </div>
 
 <br>
 
 <div align="center">
-  <h2>👋 Hi, I'm <strong>ch-irax</strong></h2>
-  
-  **Full-Stack Developer & Creative Technologist**  
-  Crafting digital experiences with code, design, and a touch of cyberpunk aesthetics.
-
-  <p>
-    <a href="https://twitter.com/ChiragShar20918">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="https://www.linkedin.com/in/chirag-pankaj-sharma-77a245303">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+  <a href="https://twitter.com/ChiragShar20918">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=FFD700" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chirag-pankaj-sharma-77a245303">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Bengaluru-000000?style=for-the-badge&logo=googlemaps&logoColor=FFD700" alt="Location"/>
 </div>
 
 ---
 
-### ✨ Featured Project
+### ✨ **Featured Project**
 
 <div align="center">
   <a href="https://github.com/ch-irax/SecurePass">
-    <img src="https://github.com/ch-irax/SecurePass/blob/main/preview.gif" alt="SecurePass Demo" width="80%" style="border-radius: 16px; box-shadow: 0 20px 40px rgba(10, 102, 194, 0.3);"/>
+    <img src="https://github.com/ch-irax/SecurePass/blob/main/preview.gif" 
+         alt="SecurePass - The Ultimate Digital Fortress" 
+         width="88%" 
+         style="border-radius: 16px; border: 3px solid #FFD700; box-shadow: 0 0 30px rgba(255, 215, 0, 0.4);"/>
   </a>
 </div>
 
 <br>
 
-**SecurePass** — A futuristic password suite with immersive 3D visuals powered by Three.js, GLSL shaders, and glassmorphism design.
+**SECUREPASS** — Next-gen password vault with immersive 3D interface.  
+**Built like a fortress. Protected like Gotham.**
 
-**[→ Explore SecurePass](https://github.com/ch-irax/SecurePass)**
+**[→ ENTER THE VAULT →](https://github.com/ch-irax/SecurePass)**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ **Arsenal (Tech Stack)**
 
 <div align="center">
 
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Currently Exploring:** React • Node.js • TypeScript • Tailwind • Next.js
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=FFD700)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD700)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFD700)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=FFD700)
+![WebGL](https://img.shields.io/badge/WebGL-000000?style=for-the-badge&logo=webgl&logoColor=FFD700)
 
 </div>
 
 ---
 
-### 🌌 About Me
+### 🌑 **The Legend**
 
-- 🔐 Passionate about **cybersecurity**, **modern web experiences**, and **generative design**
-- 🎨 Love creating interfaces that feel *alive* — gradients, shaders, micro-interactions
-- 🌍 Based in India
-- 📬 Open to collaborations on interesting frontend / security projects
+- 🦇 **Cybersecurity Enthusiast** — Building impenetrable digital defenses
+- 🎨 **Creative Coder** — Obsessed with immersive 3D experiences and dark aesthetics
+- ⚡ Always training — Currently mastering **Next.js**, **Node.js**, and advanced shaders
+- 🌍 Based in **Bengaluru**, India
+
+**"It's not who I am underneath, but what I do that defines me."**
 
 ---
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 📊 **Gotham Intelligence Report**
 
-<img src="https://github-readme-stats.vercel.app/api?username=ch-irax&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ch-irax&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ch-irax&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700" height="195" alt="Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ch-irax&theme=dark&hide_border=true&border_radius=10&ring_color=FFD700&fire=FFD700&currStreakLabel=FFD700" height="195" alt="Streak"/>
 
 </div>
 
 ---
 
+### 🏆 **Badges**
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api.svg?type=wave&color=0A66C2&height=100&section=footer&text=Let's%20Build%20Something%20Cool%20Together&fontSize=22&fontColor=ffffff" />
+  <img src="https://img.shields.io/badge/3D%20Master-FFD700?style=for-the-badge&logo=threedotjs&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cyber%20Vigilante-000000?style=for-the-badge&logo=security&logoColor=FFD700" />
+  <img src="https://img.shields.io/badge/Glassmorphism%20Artist-FFD700?style=for-the-badge&logo=css3&logoColor=black" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/v3/api.svg?type=rect&color=1A1A1A&height=100&section=footer&text=THE%20NIGHT%20IS%20DARK%20AND%20FULL%20OF%20CODE&fontSize=18&fontColor=FFD700" width="100%"/>
 </div>
