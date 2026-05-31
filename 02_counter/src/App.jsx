@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
@@ -6,22 +6,30 @@ import './App.css'
 
 function App() {
 
-  let counter = 5
-  const addValue = () => {
-    console.log("Val add ");
+  let [choco, setchoco] = useState(10)
 
+  // let counter = 15
+  const addValue = () => {
+    setchoco(choco + 1)
+
+  }
+
+  const reduceValue = () => {
+    setchoco(choco - 1)
   }
 
   return (
     <>
       <h1>Counter project</h1>
-      <h2>Counter value: {counter}</h2>
+      <h2>Counter value: {choco}</h2>
 
       <button
-        onClick={addValue}
-      >Add On</button>
+        onClick={addValue}>Add On {choco}</button>
       <br />
-      <button>Reduce on</button>
+      <button
+        onClick={reduceValue}>Reduce on {choco}</button>
+
+      <p>Value:-{choco}</p>
     </>
   )
 }
