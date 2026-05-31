@@ -10,12 +10,17 @@ function App() {
 
   // let counter = 15
   const addValue = () => {
-    setchoco(choco + 1)
+    if (choco <= 19) {
+      setchoco(choco + 1)
+
+    }
 
   }
 
   const reduceValue = () => {
-    setchoco(choco - 1)
+    if (choco >= 1) {
+      setchoco(choco - 1)
+    }
   }
 
   return (
