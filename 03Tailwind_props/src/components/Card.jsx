@@ -1,7 +1,9 @@
 import React from 'react'
 
-function Card() {
+function Card(props) {
+  console.log(`Card props:`, props)
   return (
+    
     <div className="md:max-w-sm w -full p-6 rounded-xl shadow-xl bg-black border border-zinc-800 hover:border-white transition-all duration-300 hover:transform hover:scale-105 group">
       <div className="relative overflow-hidden rounded-lg mb-6">
         <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />

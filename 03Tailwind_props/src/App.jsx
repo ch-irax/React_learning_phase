@@ -11,9 +11,10 @@ function App() {
   return (
     <>
       <h1 className="bg-blue-500 text-white p-4 rounded-lg">Tailwind Test</h1>
-      <Card />
+      <Card point="Props in Tailwind" myArray={[1, 2, 3]} />
+      <Card  />
     </>
   )
 }
 
-export default App
+export default App 
