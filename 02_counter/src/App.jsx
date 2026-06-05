@@ -27,13 +27,14 @@ function App() {
     <>
       <h1>Counter project</h1>
       <h2>Counter value: {choco}</h2>
+      <div className='btn-cont'>
 
-      <button
-        onClick={addValue}>Add On {choco}</button>
-      <br />
-      <button
-        onClick={reduceValue}>Reduce on {choco}</button>
-
+        <button className='button'
+          onClick={addValue}>Add on:-  {choco}</button>
+        <br />
+        <button className='button'
+          onClick={reduceValue}>Reduce on:- {choco}</button>
+      </div>
       <p>Value:-{choco}</p>
     </>
   )

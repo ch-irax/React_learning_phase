@@ -16,7 +16,25 @@
     outline-offset: 2px;
   }
 }
-
+.btn-cont {
+  display: flex;
+  gap: 10px;
+  justify-content: center;  
+  
+}
+.button{
+  width: 95px;
+  height: 46px;
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;  
+  border-radius: 15px;
+  background:black;
+  color: white;
+  border: 1px solid transparent;
+  font-size: 11px;
+  cursor: pointer;
+}
 .hero {
   position: relative;
 
