@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  outline: none;
+
+
+}
+
+.colour-buttons {
+
+  height: 50px;
+  background-color: rgb(215, 217, 222);
+  display: flex;
+  border: 1px solid;
+  border-radius: 40px;
+  justify-content: center;
+  bottom: 0%;
+  position: fixed;
+}
+
+.btn {
+  outline: none;
+  font-size: medium;
+  width: 70px;
+  cursor: pointer;
+  height: 30px;
+  margin: 10px;
+  /* border: 1px solid; */
+  border-radius: 20px;
+}
+
+.red {
+  color: black;
+  font-weight: 100;
+  background-color: #ff0000
+}
+
+.blue {
+  color:whitesmoke;
+  background-color: blue
+}
+
+.yellow {
+  color: black;
+  font-weight: 100;
+  background-color: yellow
+}
+
+.olive {
+  color: white;
+  font-weight: 100;
+  background-color: olivedrab
+}
+
+.white {
+
+  color: black;
+  background-color: white;
+  
+}
+
+.lavender {
+  background-color: lavender;
+}
+
+.gray {
+  background-color: gray;
+}
+
+.purple {
+  color: white;
+  background-color: purple;
+}
+
+.pink {
+  background-color: pink;
+}
