@@ -4,14 +4,15 @@ import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
 
-function App() {
+function App() {  
 
   let [choco, setchoco] = useState(10)
 
   // let counter = 15
   const addValue = () => {
     if (choco <= 19) {
-      setchoco(choco + 1)
+      setchoco((prevChoco) => { return prevChoco + 1 })
+      setchoco((prevChoco) => { return prevChoco + 1 })
 
     }
 
