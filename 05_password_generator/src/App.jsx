@@ -19,7 +19,7 @@ function App() {
       string += `!@#$%^&*~{}[]-_:;?/+`
     }
 
-
+    
     for (let i = 1; i <= Length; i++) {
       let char = Math.floor(Math.random * string.length + 1)
       pass = string.charAt(char)
@@ -37,8 +37,10 @@ function App() {
           value={Password}
           placeholder='password'
           readOnly
-        /></div>
-
+        />
+        <button>Copy</button>
+        </div>
+        <div></div>
     </>
   )
 }
